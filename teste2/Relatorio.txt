@@ -1,0 +1,12 @@
+CASO 1
+
+O arquivo de configuração estava com o nome do banco incorreto.
+
+CASO 2
+
+O caminho para o diretorio do CSS estava incorreto.
+
+CASO 3
+
+Arquivos danificados por um malware, Plugins como o 'All In One WP Security & Firewall' e o 'Wordfence Security', Ajudariam
+a proteger melhor o seu site.
